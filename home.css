@@ -1346,7 +1346,7 @@ background: linear-gradient(to right, #0b8793, #360033);
   
   }
   .slide p{
-    font-size: 15px;
+    font-size: 13px;
     
   }
   .prev{
@@ -1362,7 +1362,7 @@ background: linear-gradient(to right, #0b8793, #360033);
     font-size: 18px;
   }
   .newyear{
-    font-size: 25px;
+    font-size: 20px;
     margin-left: 25px;
   }
   .box{
@@ -1379,7 +1379,7 @@ background: linear-gradient(to right, #0b8793, #360033);
   }
   .promo{
     margin-bottom: 30px;
-    font-size: 25px;
+    font-size: 20px;
     color: white;
   }
   .video-container{
