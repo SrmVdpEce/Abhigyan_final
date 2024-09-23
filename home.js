@@ -8,7 +8,7 @@ const seconds = document.querySelector("#seconds");
 // const mseconds=document.querySelector("#mseconds");
 
 const currentYear = new Date().getFullYear();
-const newYear = new Date(`September 23 ${currentYear} 00:00:00`);
+const newYear = new Date(`September 24 ${currentYear} 00:00:00`);
 
 function UpdateTime() {
   const currentDate = new Date();
